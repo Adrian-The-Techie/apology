@@ -1,0 +1,14 @@
+@include ms-md{
+    .message{
+        width: 85%;
+    }
+    .personal-video-content iframe{
+        width: 70%;
+        height:500px;
+    }
+}
+@include ms-lg{
+    .message{
+        width: 75%;
+    }
+}
